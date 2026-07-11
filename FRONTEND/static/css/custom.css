@@ -1,0 +1,13 @@
+/* Minor layout overrides — Bootstrap handles the bulk of styling */
+
+body {
+    background-color: #f7f8fa;
+}
+
+.card {
+    border-radius: 0.5rem;
+}
+
+.navbar-brand {
+    font-size: 1.25rem;
+}
